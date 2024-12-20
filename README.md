@@ -1,5 +1,6 @@
-### study-of-basic-gates
-
+NAME:Y.MOHAMMED YAASIR
+REG NO:24900359
+EXP NO 1:STUDY OF BASIC GATE
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -63,17 +64,22 @@ Y= A⊕B
 
 
 **PROGRAM**
+![image](https://github.com/user-attachments/assets/19b60702-f301-4f20-95e3-1af42c4abf63)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ 
  
 **Logic symbol & Truthtable**
+![image](https://github.com/user-attachments/assets/95f0bcd8-eb94-47d6-999b-0ed537b7b59d)
 
 **RTL realization Output:** 
+![image](https://github.com/user-attachments/assets/f6d176d8-a74d-4da1-8db2-a39f1b1e3b96)
 
-**RTL**
+TIMIMG DIAGRAM
+![image](https://github.com/user-attachments/assets/e3236a4f-b0c5-4b8c-b457-3abdb6ace0d4)
+
 
 **Result:**
-
+Studied and verified the truth table of logic gates in Quartus II Using Verilog programming sucessfully
 
